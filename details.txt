@@ -1,0 +1,8 @@
+This is a README file for the EDA digital assignment -1 
+
+The dataset is insurance.csv
+
+
+Name: Puja Balasundaram
+Reg NO:21BDS0188
+Slot: C1
