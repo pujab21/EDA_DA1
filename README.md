@@ -1,7 +1,9 @@
 EDA digital assignment -1 
 
 Name: Puja Balasundaram
+
 Reg NO:21BDS0188
+
 Slot: C1
 
 The dataset used is insurance.csv
@@ -10,6 +12,7 @@ The Colab Notebook link is:
 https://colab.research.google.com/drive/1cgzN0djsppNccyg6RbzTuAAdJ7k7z4dv?usp=sharing
 
 Tasks performed so far:
+
 1. Data Transformation (Including Data Deduplication, Replacing Values, Handling Missing Values, Discretization and Binning, Outlier detection
 2. Univariate Analysis
 3. Bivariate Analysis
@@ -22,5 +25,6 @@ Tasks performed so far:
 10. PCA
 
 Tasks to be performed
+
 11. Model creation and evaluation 
 
