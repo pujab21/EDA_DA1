@@ -23,8 +23,5 @@ Tasks performed so far:
 8. K means clustering
 9. Hierarchical clustering
 10. PCA
-
-Tasks to be performed
-
 11. Model creation and evaluation 
 
